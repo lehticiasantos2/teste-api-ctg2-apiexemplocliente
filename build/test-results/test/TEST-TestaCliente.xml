@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestaCliente" tests="5" skipped="0" failures="0" errors="0" timestamp="2022-03-11T19:27:20" hostname="NOTELE" time="2.185">
+  <properties/>
+  <testcase name="Quando atualizar um cliente jÃ¡ cadastrado, entÃ£o ele deve estar disponÃ­vel no resultado de forma atualizada" classname="TestaCliente" time="1.913"/>
+  <testcase name="Quando pegar todos os clientes sem cadastrar, entÃ£o a lista deve estar vazia" classname="TestaCliente" time="0.003"/>
+  <testcase name="Quando deletar um clientes, entÃ£o ele deve ser removido com sucesso" classname="TestaCliente" time="0.14"/>
+  <testcase name="Quando pegar todos os clientes sem cadastrar, entÃ£o a lista deve estar vazia" classname="TestaCliente" time="0.086"/>
+  <testcase name="Quando cadastrar um cliente, entÃ£o ele deve estar disponÃ­vel no resultado" classname="TestaCliente" time="0.034"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
